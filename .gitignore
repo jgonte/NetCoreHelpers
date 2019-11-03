@@ -1,0 +1,9 @@
+/.vs/NetCoreHelpers.Solution/DesignTimeBuild
+/.vs/NetCoreHelpers.Solution/v15
+/.vs/config
+/NetCoreHelpers.Tests/bin/Debug/netcoreapp2.2
+/NetCoreHelpers.Tests/obj/Debug/netcoreapp2.2
+/NetCoreHelpers.Tests/obj
+/NetCoreHelpers/bin/Debug/netcoreapp2.2
+/NetCoreHelpers/obj/Debug/netcoreapp2.2
+/NetCoreHelpers/obj
