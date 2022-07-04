@@ -7,3 +7,6 @@
 /NetCoreHelpers/bin/Debug/netcoreapp2.2
 /NetCoreHelpers/obj/Debug/netcoreapp2.2
 /NetCoreHelpers/obj
+/.vs/NetCoreHelpers.Solution
+/NetCoreHelpers/bin/Debug/netcoreapp6.0
+/NetCoreHelpers.Tests/bin/Debug/netcoreapp6.0
